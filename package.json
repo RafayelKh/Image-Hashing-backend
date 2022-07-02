@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/RafayelKh/Image-Hashing-backend#readme",
   "dependencies": {
+    "formidable": "^2.0.1",
     "nodemon": "^2.0.16"
   }
 }
